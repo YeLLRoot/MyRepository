@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Test.Model.User>
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Index-Home";
+}
+<table class="table">
+    <thead class="thead-light">
+        <tr>
+            <th scope="col">@Html.DisplayNameFor(model => model.Id)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.UserName)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.PassWord)</th>
+            <th scope="col">Opetation</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td scope="row">
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PassWord)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Detail" asp-route-id="@item.Id">Detail</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Add">Create</a>

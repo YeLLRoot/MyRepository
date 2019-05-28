@@ -1,0 +1,7 @@
+@model Test.Model.User
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Index-Home";
+}
+<p>@Model.UserName  @Model.PassWord</p>
+<a asp-action="Index">Back</a>
