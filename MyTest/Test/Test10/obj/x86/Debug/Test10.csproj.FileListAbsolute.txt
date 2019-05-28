@@ -1,0 +1,10 @@
+E:\测试\新建文件夹\Test\Test10\bin\Debug\Test10.exe
+E:\测试\新建文件夹\Test\Test10\bin\Debug\Test10.pdb
+E:\测试\新建文件夹\Test\Test10\obj\x86\Debug\Test10.Form1.resources
+E:\测试\新建文件夹\Test\Test10\obj\x86\Debug\Test10.Properties.Resources.resources
+E:\测试\新建文件夹\Test\Test10\obj\x86\Debug\Test10.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\Test10\obj\x86\Debug\Test10.exe
+E:\测试\新建文件夹\Test\Test10\obj\x86\Debug\Test10.pdb
+E:\测试\新建文件夹\Test\Test10\obj\x86\Debug\Test10.Edit.resources
+E:\测试\新建文件夹\Test\Test10\obj\x86\Debug\Test10.Add.resources
+E:\测试\新建文件夹\Test\Test10\obj\x86\Debug\Test10.csprojResolveAssemblyReference.cache

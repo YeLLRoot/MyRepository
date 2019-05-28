@@ -1,0 +1,8 @@
+E:\测试\新建文件夹\Test\AutoSize\bin\Debug\AutoSize.exe
+E:\测试\新建文件夹\Test\AutoSize\bin\Debug\AutoSize.pdb
+E:\测试\新建文件夹\Test\AutoSize\obj\x86\Debug\AutoSize.Form1.resources
+E:\测试\新建文件夹\Test\AutoSize\obj\x86\Debug\AutoSize.Properties.Resources.resources
+E:\测试\新建文件夹\Test\AutoSize\obj\x86\Debug\AutoSize.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\AutoSize\obj\x86\Debug\AutoSize.exe
+E:\测试\新建文件夹\Test\AutoSize\obj\x86\Debug\AutoSize.pdb
+E:\测试\新建文件夹\Test\AutoSize\obj\x86\Debug\AutoSize.csprojResolveAssemblyReference.cache

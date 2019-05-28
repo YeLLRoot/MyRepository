@@ -1,0 +1,8 @@
+E:\测试\新建文件夹\Test\Test13\bin\Debug\Test13.exe
+E:\测试\新建文件夹\Test\Test13\bin\Debug\Test13.pdb
+E:\测试\新建文件夹\Test\Test13\obj\x86\Debug\Test13.Form1.resources
+E:\测试\新建文件夹\Test\Test13\obj\x86\Debug\Test13.Properties.Resources.resources
+E:\测试\新建文件夹\Test\Test13\obj\x86\Debug\Test13.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\Test13\obj\x86\Debug\Test13.exe
+E:\测试\新建文件夹\Test\Test13\obj\x86\Debug\Test13.pdb
+E:\测试\新建文件夹\Test\Test13\obj\x86\Debug\Test13.csprojResolveAssemblyReference.cache

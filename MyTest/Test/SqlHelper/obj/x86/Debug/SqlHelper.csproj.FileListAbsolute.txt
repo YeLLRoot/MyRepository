@@ -1,0 +1,12 @@
+E:\测试\新建文件夹\Test\SqlHelper\obj\x86\Debug\SqlHelper.csprojResolveAssemblyReference.cache
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\SqlHelper.exe
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\SqlHelper.pdb
+E:\测试\新建文件夹\Test\SqlHelper\obj\x86\Debug\SqlHelper.exe
+E:\测试\新建文件夹\Test\SqlHelper\obj\x86\Debug\SqlHelper.pdb
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\SqlHelper.exe.config
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\EntityFramework.dll
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\EntityFramework.SqlServer.dll
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\MySql.Data.dll
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\mysql.data.entity.EF6.dll
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\EntityFramework.xml
+E:\测试\新建文件夹\Test\SqlHelper\bin\Debug\EntityFramework.SqlServer.xml

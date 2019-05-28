@@ -1,0 +1,8 @@
+E:\测试\新建文件夹\Test\EventTest\bin\Debug\EventTest.exe
+E:\测试\新建文件夹\Test\EventTest\bin\Debug\EventTest.pdb
+E:\测试\新建文件夹\Test\EventTest\obj\x86\Debug\EventTest.Form1.resources
+E:\测试\新建文件夹\Test\EventTest\obj\x86\Debug\EventTest.Form2.resources
+E:\测试\新建文件夹\Test\EventTest\obj\x86\Debug\EventTest.Properties.Resources.resources
+E:\测试\新建文件夹\Test\EventTest\obj\x86\Debug\EventTest.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\EventTest\obj\x86\Debug\EventTest.exe
+E:\测试\新建文件夹\Test\EventTest\obj\x86\Debug\EventTest.pdb

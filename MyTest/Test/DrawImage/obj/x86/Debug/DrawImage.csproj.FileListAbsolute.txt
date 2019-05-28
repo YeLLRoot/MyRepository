@@ -1,0 +1,8 @@
+E:\测试\新建文件夹\Test\DrawImage\bin\Debug\DrawImage.exe
+E:\测试\新建文件夹\Test\DrawImage\bin\Debug\DrawImage.pdb
+E:\测试\新建文件夹\Test\DrawImage\obj\x86\Debug\DrawImage.Form1.resources
+E:\测试\新建文件夹\Test\DrawImage\obj\x86\Debug\DrawImage.Properties.Resources.resources
+E:\测试\新建文件夹\Test\DrawImage\obj\x86\Debug\DrawImage.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\DrawImage\obj\x86\Debug\DrawImage.exe
+E:\测试\新建文件夹\Test\DrawImage\obj\x86\Debug\DrawImage.pdb
+E:\测试\新建文件夹\Test\DrawImage\obj\x86\Debug\DrawImage.csprojResolveAssemblyReference.cache

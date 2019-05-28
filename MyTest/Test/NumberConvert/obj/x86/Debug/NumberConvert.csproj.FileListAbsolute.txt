@@ -1,0 +1,4 @@
+E:\测试\新建文件夹\Test\NumberConvert\bin\Debug\NumberConvert.exe
+E:\测试\新建文件夹\Test\NumberConvert\bin\Debug\NumberConvert.pdb
+E:\测试\新建文件夹\Test\NumberConvert\obj\x86\Debug\NumberConvert.exe
+E:\测试\新建文件夹\Test\NumberConvert\obj\x86\Debug\NumberConvert.pdb

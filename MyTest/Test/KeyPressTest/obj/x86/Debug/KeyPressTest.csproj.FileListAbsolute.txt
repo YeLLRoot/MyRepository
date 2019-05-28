@@ -1,0 +1,11 @@
+E:\测试\新建文件夹\Test\KeyPressTest\bin\Debug\KeyPressTest.exe
+E:\测试\新建文件夹\Test\KeyPressTest\bin\Debug\KeyPressTest.pdb
+E:\测试\新建文件夹\Test\KeyPressTest\obj\x86\Debug\KeyPressTest.Form1.resources
+E:\测试\新建文件夹\Test\KeyPressTest\obj\x86\Debug\KeyPressTest.Properties.Resources.resources
+E:\测试\新建文件夹\Test\KeyPressTest\obj\x86\Debug\KeyPressTest.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\KeyPressTest\obj\x86\Debug\KeyPressTest.exe
+E:\测试\新建文件夹\Test\KeyPressTest\obj\x86\Debug\KeyPressTest.pdb
+E:\测试\新建文件夹\Test\KeyPressTest\obj\x86\Debug\KeyPressTest.csprojResolveAssemblyReference.cache
+E:\测试\新建文件夹\Test\KeyPressTest\bin\Debug\CefSharp.WinForms.dll
+E:\测试\新建文件夹\Test\KeyPressTest\bin\Debug\CefSharp.WinForms.pdb
+E:\测试\新建文件夹\Test\KeyPressTest\bin\Debug\CefSharp.WinForms.XML

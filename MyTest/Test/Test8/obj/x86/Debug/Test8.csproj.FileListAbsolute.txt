@@ -1,0 +1,5 @@
+E:\测试\新建文件夹\Test\Test8\bin\Debug\Test8.exe
+E:\测试\新建文件夹\Test\Test8\bin\Debug\Test8.pdb
+E:\测试\新建文件夹\Test\Test8\obj\x86\Debug\Test8.exe
+E:\测试\新建文件夹\Test\Test8\obj\x86\Debug\Test8.pdb
+E:\测试\新建文件夹\Test\Test8\obj\x86\Debug\Test8.csprojResolveAssemblyReference.cache

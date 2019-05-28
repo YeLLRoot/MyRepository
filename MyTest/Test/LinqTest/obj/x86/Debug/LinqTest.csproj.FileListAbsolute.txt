@@ -1,0 +1,5 @@
+E:\测试\新建文件夹\Test\LinqTest\bin\Debug\LinqTest.exe
+E:\测试\新建文件夹\Test\LinqTest\bin\Debug\LinqTest.pdb
+E:\测试\新建文件夹\Test\LinqTest\obj\x86\Debug\LinqTest.exe
+E:\测试\新建文件夹\Test\LinqTest\obj\x86\Debug\LinqTest.pdb
+E:\测试\新建文件夹\Test\LinqTest\obj\x86\Debug\LinqTest.csprojResolveAssemblyReference.cache

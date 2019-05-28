@@ -1,0 +1,7 @@
+E:\测试\新建文件夹\Test\DataBase\bin\Debug\DataBase.exe
+E:\测试\新建文件夹\Test\DataBase\bin\Debug\DataBase.pdb
+E:\测试\新建文件夹\Test\DataBase\obj\x86\Debug\DataBase.Properties.Resources.resources
+E:\测试\新建文件夹\Test\DataBase\obj\x86\Debug\DataBase.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\DataBase\obj\x86\Debug\DataBase.exe
+E:\测试\新建文件夹\Test\DataBase\obj\x86\Debug\DataBase.pdb
+E:\测试\新建文件夹\Test\DataBase\obj\x86\Debug\DataBase.csprojResolveAssemblyReference.cache

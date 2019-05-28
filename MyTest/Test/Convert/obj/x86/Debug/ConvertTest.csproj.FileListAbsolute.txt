@@ -1,0 +1,8 @@
+E:\测试\新建文件夹\Test\Convert\obj\x86\Debug\Convert.exe
+E:\测试\新建文件夹\Test\Convert\obj\x86\Debug\Convert.pdb
+E:\测试\新建文件夹\Test\Convert\bin\Debug\Convert.exe
+E:\测试\新建文件夹\Test\Convert\bin\Debug\Convert.pdb
+E:\测试\新建文件夹\Test\Convert\obj\x86\Debug\Convert.Form1.resources
+E:\测试\新建文件夹\Test\Convert\obj\x86\Debug\Convert.Properties.Resources.resources
+E:\测试\新建文件夹\Test\Convert\obj\x86\Debug\ConvertTest.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\Convert\obj\x86\Debug\ConvertTest.csprojResolveAssemblyReference.cache

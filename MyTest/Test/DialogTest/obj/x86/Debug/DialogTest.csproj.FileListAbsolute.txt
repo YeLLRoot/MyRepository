@@ -1,0 +1,7 @@
+E:\测试\新建文件夹\Test\DialogTest\bin\Debug\DialogTest.exe
+E:\测试\新建文件夹\Test\DialogTest\bin\Debug\DialogTest.pdb
+E:\测试\新建文件夹\Test\DialogTest\obj\x86\Debug\DialogTest.Form1.resources
+E:\测试\新建文件夹\Test\DialogTest\obj\x86\Debug\DialogTest.Properties.Resources.resources
+E:\测试\新建文件夹\Test\DialogTest\obj\x86\Debug\DialogTest.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\DialogTest\obj\x86\Debug\DialogTest.exe
+E:\测试\新建文件夹\Test\DialogTest\obj\x86\Debug\DialogTest.pdb

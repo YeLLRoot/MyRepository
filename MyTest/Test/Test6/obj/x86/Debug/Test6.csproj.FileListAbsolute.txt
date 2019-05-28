@@ -1,0 +1,10 @@
+E:\测试\新建文件夹\Test\Test6\bin\Debug\Test6.exe
+E:\测试\新建文件夹\Test\Test6\bin\Debug\Test6.pdb
+E:\测试\新建文件夹\Test\Test6\obj\x86\Debug\Test6.Form1.resources
+E:\测试\新建文件夹\Test\Test6\obj\x86\Debug\Test6.Properties.Resources.resources
+E:\测试\新建文件夹\Test\Test6\obj\x86\Debug\Test6.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\Test6\obj\x86\Debug\Test6.exe
+E:\测试\新建文件夹\Test\Test6\obj\x86\Debug\Test6.pdb
+E:\测试\新建文件夹\Test\Test6\bin\Debug\Newtonsoft.Json.dll
+E:\测试\新建文件夹\Test\Test6\bin\Debug\Newtonsoft.Json.xml
+E:\测试\新建文件夹\Test\Test6\obj\x86\Debug\Test6.csprojResolveAssemblyReference.cache

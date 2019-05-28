@@ -1,0 +1,6 @@
+E:\测试\新建文件夹\Test\Test1\bin\Debug\Test1.exe
+E:\测试\新建文件夹\Test\Test1\bin\Debug\Test1.pdb
+E:\测试\新建文件夹\Test\Test1\bin\Debug\Newtonsoft.Json.xml
+E:\测试\新建文件夹\Test\Test1\obj\x86\Debug\Test1.exe
+E:\测试\新建文件夹\Test\Test1\obj\x86\Debug\Test1.pdb
+E:\测试\新建文件夹\Test\Test1\obj\x86\Debug\Test1.csprojResolveAssemblyReference.cache

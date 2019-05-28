@@ -1,0 +1,8 @@
+E:\测试\新建文件夹\Test\LogTest\obj\x86\Debug\LogTest.Form1.resources
+E:\测试\新建文件夹\Test\LogTest\obj\x86\Debug\LogTest.Properties.Resources.resources
+E:\测试\新建文件夹\Test\LogTest\obj\x86\Debug\LogTest.csproj.GenerateResource.Cache
+E:\测试\新建文件夹\Test\LogTest\bin\Debug\LogTest.exe
+E:\测试\新建文件夹\Test\LogTest\bin\Debug\LogTest.pdb
+E:\测试\新建文件夹\Test\LogTest\obj\x86\Debug\LogTest.exe
+E:\测试\新建文件夹\Test\LogTest\obj\x86\Debug\LogTest.pdb
+E:\测试\新建文件夹\Test\LogTest\obj\x86\Debug\LogTest.csprojResolveAssemblyReference.cache

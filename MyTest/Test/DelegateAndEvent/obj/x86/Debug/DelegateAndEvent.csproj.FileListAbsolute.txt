@@ -1,0 +1,4 @@
+E:\测试\新建文件夹\Test\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe
+E:\测试\新建文件夹\Test\DelegateAndEvent\bin\Debug\DelegateAndEvent.pdb
+E:\测试\新建文件夹\Test\DelegateAndEvent\obj\x86\Debug\DelegateAndEvent.exe
+E:\测试\新建文件夹\Test\DelegateAndEvent\obj\x86\Debug\DelegateAndEvent.pdb
