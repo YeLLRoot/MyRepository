@@ -1,0 +1,10 @@
+F:\Projects\WinForm\Test\Test.ToolTipTest\bin\Debug\Test.ToolTipTest.exe.config
+F:\Projects\WinForm\Test\Test.ToolTipTest\bin\Debug\Test.ToolTipTest.exe
+F:\Projects\WinForm\Test\Test.ToolTipTest\bin\Debug\Test.ToolTipTest.pdb
+F:\Projects\WinForm\Test\Test.ToolTipTest\obj\Debug\Test.ToolTipTest.csprojAssemblyReference.cache
+F:\Projects\WinForm\Test\Test.ToolTipTest\obj\Debug\Test.ToolTipTest.Form1.resources
+F:\Projects\WinForm\Test\Test.ToolTipTest\obj\Debug\Test.ToolTipTest.Properties.Resources.resources
+F:\Projects\WinForm\Test\Test.ToolTipTest\obj\Debug\Test.ToolTipTest.csproj.GenerateResource.cache
+F:\Projects\WinForm\Test\Test.ToolTipTest\obj\Debug\Test.ToolTipTest.csproj.CoreCompileInputs.cache
+F:\Projects\WinForm\Test\Test.ToolTipTest\obj\Debug\Test.ToolTipTest.exe
+F:\Projects\WinForm\Test\Test.ToolTipTest\obj\Debug\Test.ToolTipTest.pdb

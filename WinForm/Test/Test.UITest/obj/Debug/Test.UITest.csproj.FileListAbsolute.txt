@@ -1,0 +1,11 @@
+F:\Projects\WinForm\Test\Test.UITest\bin\Debug\Test.UITest.exe.config
+F:\Projects\WinForm\Test\Test.UITest\bin\Debug\Test.UITest.exe
+F:\Projects\WinForm\Test\Test.UITest\bin\Debug\Test.UITest.pdb
+F:\Projects\WinForm\Test\Test.UITest\bin\Debug\CxFlatUI.dll
+F:\Projects\WinForm\Test\Test.UITest\obj\Debug\Test.UITest.Form1.resources
+F:\Projects\WinForm\Test\Test.UITest\obj\Debug\Test.UITest.Properties.Resources.resources
+F:\Projects\WinForm\Test\Test.UITest\obj\Debug\Test.UITest.csproj.GenerateResource.cache
+F:\Projects\WinForm\Test\Test.UITest\obj\Debug\Test.UITest.csproj.CoreCompileInputs.cache
+F:\Projects\WinForm\Test\Test.UITest\obj\Debug\Test.UITest.csproj.CopyComplete
+F:\Projects\WinForm\Test\Test.UITest\obj\Debug\Test.UITest.exe
+F:\Projects\WinForm\Test\Test.UITest\obj\Debug\Test.UITest.pdb
