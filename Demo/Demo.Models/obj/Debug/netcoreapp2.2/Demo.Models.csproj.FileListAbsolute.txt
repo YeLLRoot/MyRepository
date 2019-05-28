@@ -1,0 +1,8 @@
+F:\Projects\Demo\Demo.Models\bin\Debug\netcoreapp2.2\Demo.Models.deps.json
+F:\Projects\Demo\Demo.Models\bin\Debug\netcoreapp2.2\Demo.Models.dll
+F:\Projects\Demo\Demo.Models\bin\Debug\netcoreapp2.2\Demo.Models.pdb
+F:\Projects\Demo\Demo.Models\obj\Debug\netcoreapp2.2\Demo.Models.csproj.CoreCompileInputs.cache
+F:\Projects\Demo\Demo.Models\obj\Debug\netcoreapp2.2\Demo.Models.AssemblyInfoInputs.cache
+F:\Projects\Demo\Demo.Models\obj\Debug\netcoreapp2.2\Demo.Models.AssemblyInfo.cs
+F:\Projects\Demo\Demo.Models\obj\Debug\netcoreapp2.2\Demo.Models.dll
+F:\Projects\Demo\Demo.Models\obj\Debug\netcoreapp2.2\Demo.Models.pdb

@@ -1,0 +1,14 @@
+F:\Projects\Demo\Demo.Data\bin\Debug\netcoreapp2.2\Demo.Data.deps.json
+F:\Projects\Demo\Demo.Data\bin\Debug\netcoreapp2.2\Demo.Data.dll
+F:\Projects\Demo\Demo.Data\bin\Debug\netcoreapp2.2\Demo.Data.pdb
+F:\Projects\Demo\Demo.Data\obj\Debug\netcoreapp2.2\Demo.Data.csprojAssemblyReference.cache
+F:\Projects\Demo\Demo.Data\obj\Debug\netcoreapp2.2\Demo.Data.csproj.CoreCompileInputs.cache
+F:\Projects\Demo\Demo.Data\obj\Debug\netcoreapp2.2\Demo.Data.AssemblyInfoInputs.cache
+F:\Projects\Demo\Demo.Data\obj\Debug\netcoreapp2.2\Demo.Data.AssemblyInfo.cs
+F:\Projects\Demo\Demo.Data\obj\Debug\netcoreapp2.2\Demo.Data.csproj.CopyComplete
+F:\Projects\Demo\Demo.Data\obj\Debug\netcoreapp2.2\Demo.Data.dll
+F:\Projects\Demo\Demo.Data\obj\Debug\netcoreapp2.2\Demo.Data.pdb
+F:\Projects\Demo\Demo.Data\bin\Debug\netcoreapp2.2\Demo.Models.dll
+F:\Projects\Demo\Demo.Data\bin\Debug\netcoreapp2.2\Demo.Models.pdb
+F:\Projects\Demo\Demo.Data\bin\Debug\netcoreapp2.2\Demo.Data.runtimeconfig.json
+F:\Projects\Demo\Demo.Data\bin\Debug\netcoreapp2.2\Demo.Data.runtimeconfig.dev.json

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Web", "Demo.Web\Demo.Web.csproj", "{0A74FD83-1A6F-4B5B-A0F8-9DE20909A780}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Data", "Demo.Data\Demo.Data.csproj", "{9BFBF5D1-9253-4B65-80D1-CCB52FA90216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Models", "Demo.Models\Demo.Models.csproj", "{55F5A368-485D-47EF-9825-BBE6C0C2EFA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A74FD83-1A6F-4B5B-A0F8-9DE20909A780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A74FD83-1A6F-4B5B-A0F8-9DE20909A780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A74FD83-1A6F-4B5B-A0F8-9DE20909A780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A74FD83-1A6F-4B5B-A0F8-9DE20909A780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFBF5D1-9253-4B65-80D1-CCB52FA90216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFBF5D1-9253-4B65-80D1-CCB52FA90216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFBF5D1-9253-4B65-80D1-CCB52FA90216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFBF5D1-9253-4B65-80D1-CCB52FA90216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F5A368-485D-47EF-9825-BBE6C0C2EFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F5A368-485D-47EF-9825-BBE6C0C2EFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F5A368-485D-47EF-9825-BBE6C0C2EFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F5A368-485D-47EF-9825-BBE6C0C2EFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD8139D-4CDE-458B-9EAA-840F12005640}
+	EndGlobalSection
+EndGlobal
